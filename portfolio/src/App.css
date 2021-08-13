@@ -2,33 +2,6 @@ p {
     color: black !important;
 }
 
-.nav-tabs {
-    display: flex !important;
-    justify-content: flex-end !important;
-
-}
-
-nav {
-    position: absolute;
-    overflow: hidden;
-  }
-
-  ul li {
-    justify-content: right !important;
-  }
-
-  #nav-bar {
-    box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.15);
-    background-color: #fff;
-    overflow: hidden;
-  }
-
-.home {
-  background-size: cover;
-  background-image: image(src="Assets/image/aboutimage.jpeg");
-
-}
-
 body {
   background-image: url("./backgrim.jpeg");
 }

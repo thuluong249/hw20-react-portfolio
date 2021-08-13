@@ -7,7 +7,7 @@ function NavTabs() {
 				<div className="container">
 					<div data-aos="fade-up" data-aos-anchor-placement="top-bottom" />
 					<a className="navbar-brand" href="/">
-						TL
+						<strong>TL</strong>
 					</a>
 					<button
 						className="navbar-toggler"
@@ -23,7 +23,7 @@ function NavTabs() {
 					<div className="collapse navbar-collapse" id="navbarsExample007">
 						<ul className="navbar-nav mr-auto">
 							<li className="nav-item active">
-								<a className="nav-link" href="#home">
+								<a className="nav-link text-right" href="#home">
 									Home
 								</a>
 							</li>
