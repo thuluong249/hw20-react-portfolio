@@ -1,0 +1,21 @@
+/* /* .about-page {
+    padding: 175px;
+
+  } */
+  
+  .about-page {
+    padding: 120px;
+    background-image: url("./image/bgrimage.png");
+  }
+  .about-btn {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
+  .about {
+    font-family: "Biryani", sans-serif;
+    font-weight: 900;
+  }
+  
